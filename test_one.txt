@@ -42,12 +42,3 @@ Mode                LastWriteTime     Length Name
 -a---        30-03-2016  18:23:56       1374 test_one.txt                      
 
 
-Mode                LastWriteTime     Length Name                              
-----                -------------     ------ ----                              
--a---        30-03-2016  17:15:55        395 .gitattributes                    
--a---        30-03-2016  17:21:07       2874 .gitignore                        
--a---        30-03-2016  16:56:25        142 New Text Document (2).txt         
--a---        30-03-2016  16:56:25        574 New Text Document.txt             
--a---        30-03-2016  17:38:34        430 newfile.txt                       
--a---        30-03-2016  16:56:25          7 README.md                         
--a---        30-03-2016  18:23:56       1374 test_one.txt                  
